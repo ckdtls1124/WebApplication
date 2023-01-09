@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: demo
+Bundle-SymbolicName: demo
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: demo
+Export-Package: org.spring.demo,
+ org.spring.demo.DI,
+ org.spring.demo.cotnroller,
+ org.spring.demo.entity,
+ org.spring.demo.repository,
+ org.spring.demo.service
